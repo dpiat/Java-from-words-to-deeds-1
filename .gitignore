@@ -2,3 +2,7 @@
 .gradle
 **/build/
 !src/**/build/
+/.gradle/
+/.idea/
+/controller/build/
+/models/build/
